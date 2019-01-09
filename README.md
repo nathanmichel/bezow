@@ -1,2 +1,2 @@
 # bezow
-personal projext
+personal project
